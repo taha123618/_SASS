@@ -1,0 +1,13 @@
+@use 'sass:string';
+
+$colors : 1rem;
+
+$colors : (
+   "colors1" : "gray",
+   "colors2" : "green",
+   "colors3" : "red",
+   "colors4" : "yellow",
+   "colors5" : "purple",
+   "colors6" : "pink",
+   "colors7" : "lightblue",
+)
